@@ -1,0 +1,3 @@
+name.firstName, name.lastName, age, address.line1, address.line2, address.city, address.state,gender
+Rajeshwari, Parmar, 8, A-563 Rakshak Society, New Pune Road, Pune, Maharashtra, female
+Vanya, Bag, 42, A-563 Rakshak Society, New Pune Road, Pune, Maharashtra, female
